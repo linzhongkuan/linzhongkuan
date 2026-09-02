@@ -1,4 +1,4 @@
-## 😄 Hi there!
+## Hi there!
 I'm Tin, a commercial and finance-focused analyst from 🇭🇰 Hong Kong.
 
 ### 💬 About Me in 3 sentences
@@ -6,8 +6,10 @@ I'm Tin, a commercial and finance-focused analyst from 🇭🇰 Hong Kong.
 * 🚀 Quick and hungry learner, self-taught SQL and Tableau in one rigorous summer of self-study
 * 🔎 Loves data - I enter my every day's spending and screen time into Excel!
 
-### 🌱 Projects
-This way to my projects!
+### 🌱 My Projects
+* Amazon Catalog Analysis - Aug 31
+* Predicting Loan Default with Machine Learning - Aug 25
+* All Projects
 
 ### 🚀 Technical Skills
 * I mainly code in: Python, SQL, C++
