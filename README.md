@@ -1,11 +1,21 @@
-## Hi there! 😄
+## 😄 Hi there!
 I'm Tin, a commercial and finance-focused analyst from 🇭🇰 Hong Kong.
 
-### About Me in 3 sentences 💬
+### 💬 About Me in 3 sentences
 * 🌱 Computer Science undergraduate with 3 years of experience making data-driven decisions
 * 🚀 Quick and hungry learner, self-taught SQL and Tableau in one rigorous summer of self-study
-* 💚 Loves data - I enter my every day's spending and screen time into Excel!
+* 🔎 Loves data - I enter my every day's spending and screen time into Excel!
 
+### 🌱 Projects
+This way to my projects!
+
+### 🚀 Technical Skills
+* I mainly code in: Python, SQL, C++
+* Platforms I use: VSCode, BigQuery, Colab
+* Visualization Tools: Tableau, PowerBI
+
+### 🔎 Connect with me
+* [Linkedin](https://www.linkedin.com/in/lzktin/)
 <!--
 **linzhongkuan/linzhongkuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
